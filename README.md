@@ -1,4 +1,5 @@
 # Algorithms
 
 ### Solutions to algorithm questions I have attempted.
-Some are with questions and others are without
+Some come with questions and others do not.
+Updating the list as I attemp more algorithms
